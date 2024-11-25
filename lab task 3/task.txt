@@ -1,0 +1,12 @@
+int x = 70;
+
+float y = 20.89;
+
+char z = 'h';
+ 
+for (int i = 0; i < 70; i++) {
+
+    y = y + 0.5;
+
+}
+ 
